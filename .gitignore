@@ -1,6 +1,8 @@
 *.aux
 *.log
 *.gz
+.idea/
+*.egg-info
 
 __pycache__
 books
